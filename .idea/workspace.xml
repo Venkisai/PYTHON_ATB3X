@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Adding LAB001 files">
-      <change afterPath="$PROJECT_DIR$/EX_03062024/LAB002.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Adding LAB002 files">
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +60,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAB001.executor": "Run",
+    "Python.LAB002.executor": "Run",
+    "Python.LAB003.executor": "Run",
+    "Python.LAB004.executor": "Run",
+    "Python.LAB005.executor": "Run",
+    "Python.LAB006.executor": "Run",
+    "Python.LAB007.executor": "Run",
+    "Python.LAB008.executor": "Run",
+    "Python.LAB009.executor": "Run",
+    "Python.LAB011.executor": "Run",
+    "Python.LAB012.executor": "Run",
+    "Python.LAB013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -77,11 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1722341823038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding LAB002 files">
+      <option name="closed" value="true" />
+      <created>1722342287943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722342287943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding LAB001 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding LAB001 files" />
+    <MESSAGE value="Adding LAB002 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding LAB002 files" />
   </component>
 </project>
