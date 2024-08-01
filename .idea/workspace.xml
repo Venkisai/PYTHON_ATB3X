@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Adding LAB002 files">
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_05062024/LAB013.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Variables and data types">
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,17 @@
     "Python.LAB011.executor": "Run",
     "Python.LAB012.executor": "Run",
     "Python.LAB013.executor": "Run",
+    "Python.LAB014.executor": "Run",
+    "Python.LAB015.executor": "Run",
+    "Python.LAB016.executor": "Run",
+    "Python.LAB017.executor": "Run",
+    "Python.LAB018.executor": "Run",
+    "Python.LAB019.executor": "Run",
+    "Python.LAB020.executor": "Run",
+    "Python.LAB021.executor": "Run",
+    "Python.LAB022.executor": "Run",
+    "Python.LAB023.executor": "Run",
+    "Python.LAB024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -108,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722342287943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Variables and data types">
+      <option name="closed" value="true" />
+      <created>1722437023159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722437023159</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding LAB001 files" />
     <MESSAGE value="Adding LAB002 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding LAB002 files" />
+    <MESSAGE value="Variables and data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and data types" />
   </component>
 </project>
