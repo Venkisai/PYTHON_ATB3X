@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Variables and data types">
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/LAB024.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Data types">
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/LAB035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +81,17 @@
     "Python.LAB022.executor": "Run",
     "Python.LAB023.executor": "Run",
     "Python.LAB024.executor": "Run",
+    "Python.LAB025.executor": "Run",
+    "Python.LAB026.executor": "Run",
+    "Python.LAB027.executor": "Run",
+    "Python.LAB028.executor": "Run",
+    "Python.LAB029.executor": "Run",
+    "Python.LAB030.executor": "Run",
+    "Python.LAB031.executor": "Run",
+    "Python.LAB032.executor": "Run",
+    "Python.LAB033.executor": "Run",
+    "Python.LAB034.executor": "Run",
+    "Python.LAB035.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -126,13 +137,22 @@
       <option name="project" value="LOCAL" />
       <updated>1722437023159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Data types">
+      <option name="closed" value="true" />
+      <created>1722532973369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722532973370</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding LAB001 files" />
     <MESSAGE value="Adding LAB002 files" />
     <MESSAGE value="Variables and data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables and data types" />
+    <MESSAGE value="Data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data types" />
   </component>
 </project>
