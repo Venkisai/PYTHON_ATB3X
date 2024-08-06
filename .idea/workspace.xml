@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="literals">
-      <change afterPath="$PROJECT_DIR$/EX_11062024_task/TASK001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_11062024_task/TASK002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_11062024_task/TASK003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_11062024_task/TASK004.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="given tasks">
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,21 +34,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Venkisai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Venkisai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Venkisai/PYTHON_ATB3X.git",
-    "accountId": "56dc0839-8969-4e0a-b5f1-66651d147aa2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Venkisai/PYTHON_ATB3X.git&quot;,
+    &quot;accountId&quot;: &quot;56dc0839-8969-4e0a-b5f1-66651d147aa2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2jxsV8VheW6dWyHpF1CAWM60p8Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -85,6 +93,18 @@
     "Python.LAB033.executor": "Run",
     "Python.LAB034.executor": "Run",
     "Python.LAB035.executor": "Run",
+    "Python.LAB036.executor": "Run",
+    "Python.LAB037.executor": "Run",
+    "Python.LAB038.executor": "Run",
+    "Python.LAB039.executor": "Run",
+    "Python.LAB040.executor": "Run",
+    "Python.LAB041.executor": "Run",
+    "Python.LAB042.executor": "Run",
+    "Python.LAB043.executor": "Run",
+    "Python.LAB044.executor": "Run",
+    "Python.LAB045.executor": "Run",
+    "Python.LAB046.executor": "Run",
+    "Python.LAB047.executor": "Run",
     "Python.TASK001.executor": "Run",
     "Python.TASK002.executor": "Run",
     "Python.TASK003.executor": "Run",
@@ -94,6 +114,58 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LAB040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON ATB3X" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_12062024/LAB040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LAB042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON ATB3X" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_12062024/LAB042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LAB042" />
+        <item itemvalue="Python.LAB040" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -150,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722611918922</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="given tasks">
+      <option name="closed" value="true" />
+      <created>1722674304339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722674304339</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +239,7 @@
     <MESSAGE value="Variables and data types" />
     <MESSAGE value="Data types" />
     <MESSAGE value="literals" />
-    <option name="LAST_COMMIT_MESSAGE" value="literals" />
+    <MESSAGE value="given tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="given tasks" />
   </component>
 </project>
