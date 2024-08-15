@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="given tasks">
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_12062024/LAB047.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="loops">
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,10 +105,22 @@
     "Python.LAB045.executor": "Run",
     "Python.LAB046.executor": "Run",
     "Python.LAB047.executor": "Run",
+    "Python.LAB123.executor": "Run",
+    "Python.LAB124.executor": "Run",
+    "Python.LAB125.executor": "Run",
+    "Python.LAB126.executor": "Run",
+    "Python.LAB127.executor": "Run",
+    "Python.LAB128.executor": "Run",
+    "Python.LAB129.executor": "Run",
+    "Python.LAB130.executor": "Run",
+    "Python.LAB131.executor": "Run",
+    "Python.LAB132.executor": "Run",
+    "Python.LAB133.executor": "Run",
     "Python.TASK001.executor": "Run",
     "Python.TASK002.executor": "Run",
     "Python.TASK003.executor": "Run",
     "Python.TASK004.executor": "Run",
+    "Python.Task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -161,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LAB042" />
         <item itemvalue="Python.LAB040" />
+        <item itemvalue="Python.LAB042" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722674304339</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="loops">
+      <option name="closed" value="true" />
+      <created>1722927296041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722927296042</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +260,7 @@
     <MESSAGE value="Data types" />
     <MESSAGE value="literals" />
     <MESSAGE value="given tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="given tasks" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
   </component>
 </project>
