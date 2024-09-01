@@ -4,50 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/filexyz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_14062024/LAB049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB102.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="tuple">
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB110.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_11062024_task/TASK001.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_11062024_task/TASK001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +106,7 @@
     "Python.LAB046.executor": "Run",
     "Python.LAB047.executor": "Run",
     "Python.LAB049.executor": "Run",
+    "Python.LAB085.executor": "Run",
     "Python.LAB086.executor": "Run",
     "Python.LAB087.executor": "Run",
     "Python.LAB088.executor": "Run",
@@ -157,6 +124,14 @@
     "Python.LAB100.executor": "Run",
     "Python.LAB101.executor": "Run",
     "Python.LAB102.executor": "Run",
+    "Python.LAB103.executor": "Run",
+    "Python.LAB104.executor": "Run",
+    "Python.LAB105.executor": "Run",
+    "Python.LAB106.executor": "Run",
+    "Python.LAB107.executor": "Run",
+    "Python.LAB108.executor": "Run",
+    "Python.LAB109.executor": "Run",
+    "Python.LAB110.executor": "Run",
     "Python.LAB123.executor": "Run",
     "Python.LAB124.executor": "Run",
     "Python.LAB125.executor": "Run",
@@ -353,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723743002674</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="tuple, Decorators, Dictionary">
+      <option name="closed" value="true" />
+      <created>1725196589493</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725196589493</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tuple">
+      <option name="closed" value="true" />
+      <created>1725213854009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725213854009</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -365,6 +356,8 @@
     <MESSAGE value="given tasks" />
     <MESSAGE value="loops" />
     <MESSAGE value="Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation" />
+    <MESSAGE value="tuple, Decorators, Dictionary" />
+    <MESSAGE value="tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuple" />
   </component>
 </project>
