@@ -4,20 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="loops">
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAB133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Task.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="Encapsulation">
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/LAB151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/filexyz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/xyz/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_14062024/LAB049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAB102.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_11062024_task/TASK001.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_11062024_task/TASK001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +89,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ChildImp.executor": "Run",
+    "Python.Demo2.executor": "Run",
+    "Python.FirstDemo.executor": "Run",
+    "Python.FunctionsDemo.executor": "Run",
     "Python.LAB001.executor": "Run",
     "Python.LAB002.executor": "Run",
     "Python.LAB003.executor": "Run",
@@ -105,6 +139,24 @@
     "Python.LAB045.executor": "Run",
     "Python.LAB046.executor": "Run",
     "Python.LAB047.executor": "Run",
+    "Python.LAB049.executor": "Run",
+    "Python.LAB086.executor": "Run",
+    "Python.LAB087.executor": "Run",
+    "Python.LAB088.executor": "Run",
+    "Python.LAB089.executor": "Run",
+    "Python.LAB090.executor": "Run",
+    "Python.LAB091.executor": "Run",
+    "Python.LAB092.executor": "Run",
+    "Python.LAB093.executor": "Run",
+    "Python.LAB094.executor": "Run",
+    "Python.LAB095.executor": "Run",
+    "Python.LAB096.executor": "Run",
+    "Python.LAB097.executor": "Run",
+    "Python.LAB098.executor": "Run",
+    "Python.LAB099.executor": "Run",
+    "Python.LAB100.executor": "Run",
+    "Python.LAB101.executor": "Run",
+    "Python.LAB102.executor": "Run",
     "Python.LAB123.executor": "Run",
     "Python.LAB124.executor": "Run",
     "Python.LAB125.executor": "Run",
@@ -116,11 +168,31 @@
     "Python.LAB131.executor": "Run",
     "Python.LAB132.executor": "Run",
     "Python.LAB133.executor": "Run",
+    "Python.LAB134.executor": "Run",
+    "Python.LAB135.executor": "Run",
+    "Python.LAB136.executor": "Run",
+    "Python.LAB137.executor": "Run",
+    "Python.LAB138.executor": "Run",
+    "Python.LAB139.executor": "Run",
+    "Python.LAB140.executor": "Run",
+    "Python.LAB141.executor": "Run",
+    "Python.LAB142.executor": "Run",
+    "Python.LAB143.executor": "Run",
+    "Python.LAB144.executor": "Run",
+    "Python.LAB145.executor": "Run",
+    "Python.LAB146.executor": "Run",
+    "Python.LAB147.executor": "Run",
+    "Python.LAB148.executor": "Run",
+    "Python.LAB149.executor": "Run",
+    "Python.LAB150.executor": "Run",
+    "Python.LAB151.executor": "Run",
+    "Python.OopsDemo.executor": "Run",
     "Python.TASK001.executor": "Run",
     "Python.TASK002.executor": "Run",
     "Python.TASK003.executor": "Run",
     "Python.TASK004.executor": "Run",
     "Python.Task.executor": "Run",
+    "Python.loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -171,8 +243,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TASK001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON ATB3X" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_11062024_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_11062024_task/TASK001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TASK001" />
         <item itemvalue="Python.LAB040" />
         <item itemvalue="Python.LAB042" />
       </list>
@@ -250,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722927296042</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Encapsulation">
+      <option name="closed" value="true" />
+      <created>1723743002674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723743002674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +364,7 @@
     <MESSAGE value="literals" />
     <MESSAGE value="given tasks" />
     <MESSAGE value="loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="loops" />
+    <MESSAGE value="Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation" />
   </component>
 </project>
