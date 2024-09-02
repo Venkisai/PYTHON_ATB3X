@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="tuple">
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/LAB110.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="recursion">
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_26062024/LAB121.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +132,14 @@
     "Python.LAB108.executor": "Run",
     "Python.LAB109.executor": "Run",
     "Python.LAB110.executor": "Run",
+    "Python.LAB114.executor": "Run",
+    "Python.LAB115.executor": "Run",
+    "Python.LAB116.executor": "Run",
+    "Python.LAB117.executor": "Run",
+    "Python.LAB118.executor": "Run",
+    "Python.LAB119.executor": "Run",
+    "Python.LAB120.executor": "Run",
+    "Python.LAB121.executor": "Run",
     "Python.LAB123.executor": "Run",
     "Python.LAB124.executor": "Run",
     "Python.LAB125.executor": "Run",
@@ -344,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725213854009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1725214493362</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725214493363</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -358,6 +374,7 @@
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="tuple, Decorators, Dictionary" />
     <MESSAGE value="tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuple" />
+    <MESSAGE value="recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
   </component>
 </project>
