@@ -4,35 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="OOPS CONCEPT">
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB165.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB170.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB173.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/LAB174.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/TD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/TestData2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/EX_03072024/Venkat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JULY/__init__.py" afterDir="false" />
+    <list default="true" id="c2fda803-4e4d-424c-a2d5-d99d78f8148c" name="Changes" comment="exception handling">
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/LAB175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/LAB176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/LAB177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/LAB178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/td.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JULY/EX_05072024/testdata.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,6 +187,11 @@
     "Python.LAB171.executor": "Run",
     "Python.LAB172.executor": "Run",
     "Python.LAB173.executor": "Run",
+    "Python.LAB174.executor": "Run",
+    "Python.LAB175.executor": "Run",
+    "Python.LAB176.executor": "Run",
+    "Python.LAB177.executor": "Run",
+    "Python.LAB178.executor": "Run",
     "Python.OopsDemo.executor": "Run",
     "Python.TASK001.executor": "Run",
     "Python.TASK002.executor": "Run",
@@ -454,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725270242329</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exception handling">
+      <option name="closed" value="true" />
+      <created>1725295033686</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725295033686</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -470,6 +461,7 @@
     <MESSAGE value="tuple" />
     <MESSAGE value="recursion" />
     <MESSAGE value="OOPS CONCEPT" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS CONCEPT" />
+    <MESSAGE value="exception handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
   </component>
 </project>
